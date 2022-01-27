@@ -1,5 +1,5 @@
 {
-  "name": "@trellis/prettier-config",
+  "name": "@trelliscommerce/prettier-config",
   "version": "0.0.0-alpha",
   "description": "A Prettier configuration file reflecting the Trellis coding standards",
   "main": "index.json",

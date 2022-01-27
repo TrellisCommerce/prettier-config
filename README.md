@@ -1,4 +1,4 @@
-# `@trellis/prettier-config`
+# `@trelliscommerce/prettier-config`
 
 > The [Prettier](https://prettier.io) configuration that reflects the Trellis coding standards.
 
@@ -7,13 +7,13 @@
 **Install**:
 
 ```bash
-$ yarn add --dev @trellis/prettier-config
+$ yarn add --dev @trelliscommerce/prettier-config
 ```
 
 or
 
 ```bash
-$ npm add --dev @trellis/prettier-config
+$ npm add --dev @trelliscommerce/prettier-config
 ```
 
 **Edit `package.json`**:
@@ -21,6 +21,6 @@ $ npm add --dev @trellis/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@trellis/prettier-config"
+  "prettier": "@trelliscommerce/prettier-config"
 }
 ```
