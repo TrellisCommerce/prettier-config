@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Trellis Development Team <devteam@trellis.co>",
+  "license": "MIT",
+  "repository": "git@github.com:TrellisCommerce/prettier-config.git"
 }
