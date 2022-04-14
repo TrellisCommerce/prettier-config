@@ -13,7 +13,7 @@ $ yarn add --dev @trelliscommerce/prettier-config
 or
 
 ```bash
-$ npm add --dev @trelliscommerce/prettier-config
+$ npm install --save-dev @trelliscommerce/prettier-config
 ```
 
 **Edit `package.json`**:
